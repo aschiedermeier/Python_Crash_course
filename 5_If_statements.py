@@ -1,6 +1,6 @@
 ###########################################
 # Book "Python Crash course" - Eric Matthes
-# Chapter 5: If funcitons
+# Chapter 5: If statements
 ###########################################
 
 # if else function
