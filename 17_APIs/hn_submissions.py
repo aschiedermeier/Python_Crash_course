@@ -5,6 +5,7 @@
 
 ###########################################
 # Hackernews submissions
+# submissions on the webstie hackernews
 
 import requests
 
